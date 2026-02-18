@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Neil 👋
 
-<!--
-**neilsixtus/neilsixtus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Master of Data Science student at Monash University  
+💼 Former Systems Engineer at Tata Consultancy Services  
+📍 Based in Melbourne, Australia  
 
-Here are some ideas to get you started:
+## Technical Skills
+- Python (Pandas, NumPy, Scikit-learn)
+- SQL & Relational Databases
+- Statistical Modelling
+- Data Wrangling & Visualisation
+- AWS & Azure Cloud
+- CI/CD & Automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+- Customer Revenue Risk Analytics
+- Cloud Data Pipelines
+- Business-focused Data Science
+
+## Connect With Me
+- LinkedIn: www.linkedin.com/in/neil-sixtus-a5784712b
